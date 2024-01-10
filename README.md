@@ -12,7 +12,7 @@ Welcome to the School Management Console App, a comprehensive C# application des
 - **Academic Calendar:** Keep track of academic events, exams, and deadlines.
 - **Module Management:** Organize courses into modules for better academic structuring.
 
-##Classes and Their Relationships:
+## Classes and Their Relationships:
 Person
 
 Base class for Student, Teacher, and Administrator.
