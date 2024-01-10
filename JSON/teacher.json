@@ -1,0 +1,14 @@
+[
+  {
+    "AssignedCourse": "Dev",
+    "FirstName": "Test",
+    "LastName": "Test",
+    "Gender": "Male",
+    "Id": 1,
+    "PhoneNumber": 678542389,
+    "Email": "mehdi.loukach@ynov.com",
+    "Address": "mehdi_address",
+    "DateOfBirth": "1998-01-02T00:00:00",
+    "Nationality": "moroccan"
+  }
+]

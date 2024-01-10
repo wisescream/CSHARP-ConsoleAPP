@@ -1,0 +1,26 @@
+[
+  {
+    "Grade": "directeur generale",
+    "ClassName": null,
+    "ModuleName": null,
+    "CourseName": null,
+    "UpcomingCourseDebutTime": "2024-01-09T23:09:26.8874419+01:00",
+    "UpComingCourseEndTime": "2024-01-09T23:09:26.887466+01:00",
+    "ExamDate": "2024-01-09T23:09:26.8874668+01:00",
+    "ProjectDeadLine": "2024-01-09T23:09:26.8876518+01:00",
+    "CourseTeacherName": null,
+    "StudentPerformanceReportDate": "2024-01-09T23:09:26.8876545+01:00",
+    "StudentPerformanceReportText": null,
+    "TeacherPerformanceReportDate": "2024-01-09T23:09:26.8876609+01:00",
+    "TeacherPerformanceReportText": null,
+    "FirstName": "Amine ",
+    "LastName": "ZNIBER",
+    "Gender": "Male",
+    "Id": 1,
+    "PhoneNumber": 656879823,
+    "Email": "amine.zniber@ynov.com",
+    "Address": "adresse_zniber",
+    "DateOfBirth": "1976-01-04T00:00:00",
+    "Nationality": "moroccan"
+  }
+]

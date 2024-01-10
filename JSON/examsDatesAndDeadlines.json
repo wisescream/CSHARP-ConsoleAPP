@@ -1,0 +1,26 @@
+[
+  {
+    "Grade": null,
+    "ClassName": "B2",
+    "ModuleName": "UX",
+    "CourseName": "UI",
+    "UpcomingCourseDebutTime": "2024-01-07T13:26:15.5654185+01:00",
+    "UpComingCourseEndTime": "2024-01-07T13:26:15.5654204+01:00",
+    "ExamDate": "2023-01-07T00:00:00",
+    "ProjectDeadLine": "2023-02-07T00:00:00",
+    "CourseTeacherName": null,
+    "StudentPerformanceReportDate": "2024-01-07T13:26:15.5654208+01:00",
+    "StudentPerformanceReportText": null,
+    "TeacherPerformanceReportDate": "2024-01-07T13:26:15.5654211+01:00",
+    "TeacherPerformanceReportText": null,
+    "FirstName": null,
+    "LastName": null,
+    "Gender": null,
+    "Id": 0,
+    "PhoneNumber": 0,
+    "Email": null,
+    "Address": null,
+    "DateOfBirth": "2024-01-07T13:26:15.5578621+01:00",
+    "Nationality": null
+  }
+]

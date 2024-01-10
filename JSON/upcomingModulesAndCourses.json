@@ -1,0 +1,26 @@
+[
+  {
+    "Grade": null,
+    "ClassName": "B2",
+    "ModuleName": "Graphic Design",
+    "CourseName": "UX",
+    "UpcomingCourseDebutTime": "2024-01-29T00:00:00",
+    "UpComingCourseEndTime": "2024-02-24T00:00:00",
+    "ExamDate": "2024-01-09T23:06:24.2785086+01:00",
+    "ProjectDeadLine": "2024-01-09T23:06:24.2785105+01:00",
+    "CourseTeacherName": "Farid  KROUMI",
+    "StudentPerformanceReportDate": "2024-01-09T23:06:24.2785114+01:00",
+    "StudentPerformanceReportText": null,
+    "TeacherPerformanceReportDate": "2024-01-09T23:06:24.2785119+01:00",
+    "TeacherPerformanceReportText": null,
+    "FirstName": null,
+    "LastName": null,
+    "Gender": null,
+    "Id": 0,
+    "PhoneNumber": 0,
+    "Email": null,
+    "Address": null,
+    "DateOfBirth": "2024-01-09T23:06:24.2783061+01:00",
+    "Nationality": null
+  }
+]
