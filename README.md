@@ -12,6 +12,41 @@ Welcome to the School Management Console App, a comprehensive C# application des
 - **Academic Calendar:** Keep track of academic events, exams, and deadlines.
 - **Module Management:** Organize courses into modules for better academic structuring.
 
+##Classes and Their Relationships:
+Person
+
+Base class for Student, Teacher, and Administrator.
+Attributes: Name, ID, etc.
+Methods: Common methods relevant to all people in the system.
+Student (inherits from Person)
+
+Attributes: Student-specific properties (e.g., courses enrolled).
+Methods: Enroll in course, view grades, etc.
+Teacher (inherits from Person)
+
+Attributes: Teacher-specific properties (e.g., courses teaching).
+Methods: Assign grades, manage courses, etc.
+Administrator (inherits from Person)
+
+Attributes: Admin-specific properties.
+Methods: Manage users, system settings, etc.
+Course
+
+Attributes: Course details like name, code, credits.
+Relationships: Associated with Teacher and Student.
+Module
+
+Attributes: Module details.
+Relationships: Contains multiple Courses.
+User
+
+For login/logout functionality.
+Relationships: Associated with Person.
+Program
+
+Main entry point of the application.
+Interacts with all other classes.
+
 ## Getting Started
 
 These instructions will help you set up the project on your local machine for development and testing purposes.
