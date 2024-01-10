@@ -1,6 +1,6 @@
-# School Management Console App
+# C# Project Console App
 
-Welcome to the School Management Console App, a comprehensive C# application designed to streamline various administrative and academic processes in educational institutions. This application offers a user-friendly interface for managing courses, students, teachers, and more.
+Welcome to the C# Project Console App, a comprehensive C# application designed to streamline various administrative and academic processes in educational institutions. This application offers a user-friendly interface for managing courses, students, teachers, and more.
 
 ## Key Features
 
