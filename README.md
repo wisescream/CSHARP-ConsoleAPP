@@ -12,40 +12,40 @@ Welcome to the School Management Console App, a comprehensive C# application des
 - **Academic Calendar:** Keep track of academic events, exams, and deadlines.
 - **Module Management:** Organize courses into modules for better academic structuring.
 
-## Classes and Their Relationships:
-Person
+Classes and Their Relationships:
 
-Base class for Student, Teacher, and Administrator.
-Attributes: Name, ID, etc.
-Methods: Common methods relevant to all people in the system.
-Student (inherits from Person)
+1. Person
+   - Base class for Student, Teacher, and Administrator.
+   - Attributes: Name, ID, etc.
+   - Methods: Common methods relevant to all people in the system.
 
-Attributes: Student-specific properties (e.g., courses enrolled).
-Methods: Enroll in course, view grades, etc.
-Teacher (inherits from Person)
+2. Student (inherits from Person)
+   - Attributes: Student-specific properties (e.g., courses enrolled).
+   - Methods: Enroll in course, view grades, etc.
 
-Attributes: Teacher-specific properties (e.g., courses teaching).
-Methods: Assign grades, manage courses, etc.
-Administrator (inherits from Person)
+3. Teacher (inherits from Person)
+   - Attributes: Teacher-specific properties (e.g., courses teaching).
+   - Methods: Assign grades, manage courses, etc.
 
-Attributes: Admin-specific properties.
-Methods: Manage users, system settings, etc.
-Course
+4. Administrator (inherits from Person)
+   - Attributes: Admin-specific properties.
+   - Methods: Manage users, system settings, etc.
 
-Attributes: Course details like name, code, credits.
-Relationships: Associated with Teacher and Student.
-Module
+5. Course
+   - Attributes: Course details like name, code, credits.
+   - Relationships: Associated with Teacher and Student.
 
-Attributes: Module details.
-Relationships: Contains multiple Courses.
-User
+6. Module
+   - Attributes: Module details.
+   - Relationships: Contains multiple Courses.
 
-For login/logout functionality.
-Relationships: Associated with Person.
-Program
+7. User
+   - For login/logout functionality.
+   - Relationships: Associated with Person.
 
-Main entry point of the application.
-Interacts with all other classes.
+8. Program
+   - Main entry point of the application.
+   - Interacts with all other classes.
 
 ## Getting Started
 
